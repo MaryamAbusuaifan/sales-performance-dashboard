@@ -1,5 +1,9 @@
 # 📊 Sales Performance Dashboard
 
+
+## 📸 Dashboard Preview
+![Dashboard](Dashboard.png)
+
 ## 📌 Project Overview
 This project presents an interactive **Sales Performance Dashboard** built using Excel.  
 The dashboard analyzes sales data and provides insights into revenue trends, customer segments, regional performance, and top-performing products.
