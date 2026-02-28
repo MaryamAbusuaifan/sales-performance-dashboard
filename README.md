@@ -18,6 +18,15 @@ The dashboard analyzes sales data and provides insights into revenue trends, cus
 
 ---
 
+## 💡 Skills Demonstrated
+- Data Cleaning
+- Data Aggregation
+- Business Metrics Analysis
+- Data Visualization
+- Dashboard Design
+
+---
+
 ## 📈 Key Metrics
 - **Total Revenue:** 2,261,537
 - Monthly Sales Trend
